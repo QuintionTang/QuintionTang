@@ -1,12 +1,12 @@
-原本立志要成为一名救死扶伤的大夫，结果“失足”掉进了 IT 行业，毕业到现在一直从事着与互联网相关的职业。涉及的行业包括企业信息化、游戏、区块链、物联网，在不断积累经验的过程中也喜欢上了互联网这个行业，擅长以全栈的思维结合实际资源拆解需求。
+Originally aspiring to become a life-saving doctor, I "stumbled" into the IT industry instead. Since graduating, I have been working in various roles related to the internet. These include enterprise IT, gaming, blockchain, and the Internet of Things. Throughout the process of accumulating experience, I have developed a fondness for the internet industry and have become skilled at dissecting requirements by combining a full-stack mindset with practical resources.
 
-平时喜欢去网上欣赏好的网站和应用，关注新的技术，以此来开阔自己的思维，激励自己的不断去学习，将自己喜欢的资料和学习笔记收集起来，扩展自己的技能和思维，始终保持一个学习的态度。
+In my free time, I enjoy browsing the internet to appreciate well-designed websites and applications. I keep an eye on emerging technologies to broaden my thinking and motivate myself to continue learning. I collect materials and study notes that I find interesting, expanding my skills and mindset, always maintaining a learning attitude.
 
-### 个人自媒体
+### Personal media
 
-通过写一些文章来总结和发现技术的不足。
+By writing articles, I summarize and discover the shortcomings of technology, constantly motivating myself to explore new opportunities and future directions.
 
--   个人博客：https://www.devpoint.cn/
+-   BLOG：https://www.devpoint.cn/
 -   InfoQ：https://www.infoq.cn/u/devpoint/publish
--   掘金：https://juejin.cn/user/4406498333033918
+-   JUEJIN：https://juejin.cn/user/4406498333033918
 -   OSCHINA：https://my.oschina.net/devpoint
